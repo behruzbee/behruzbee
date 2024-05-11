@@ -1,7 +1,7 @@
 <div id="header" align="center" >
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76116b53a1c62d3f90bd0dfa2656365f99f28a0cf470&rid=giphy.gif&ct=g" width="700"/>
   <div id="badge">
-    <a href="https://t.me/behruzdev71">
+    <a href="https://t.me/behruzbee71">
       <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram badge">
     </a>
    <a href="mailto:behruz.baxtiyorov.dev@gmail.com">
