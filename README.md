@@ -15,7 +15,7 @@
 ### :man_technologist: Обо мне:
 - :man_student: Закончил обучение на Full-Stack Web Developer в ProWeb.uz <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">.
 - :clock9: В свободное от учебы время ищу интересные проекты, которые могу реализовать.
-- :triangular_ruler: В данный момент, успешно совмещаю учебу с работой по специальности - Frontend Developer :construction_worker:. Хочу полностью перейти и погрузиться в веб-разработку :rocket:.
+- :triangular_ruler: В данный момент, успешно совмещаю учебу с работой по специальности - Data Scientist :construction_worker: :rocket:.
 - :zap: Имею большой опыт работы в команде. Легко найду общий язык с кем угодно! 
 - :chart_with_upwards_trend: Люблю помогать людям и не боюсь брать ответственность.
 
